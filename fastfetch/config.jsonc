@@ -1,0 +1,27 @@
+{
+  "logo": {
+    "type": "chafa",
+    "source": "~/.config/fastfetch/imgs/kaneki.png",
+    "width": 25,
+    "padding": {
+      "top": 2
+    },  
+  },
+
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "resolution",
+    "de",
+    "wm",
+    "terminal",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk"
+  ]
+
+}
